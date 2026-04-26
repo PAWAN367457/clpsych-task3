@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Data
+data/
+*.zip
+
+# Outputs
+outputs/
+
+# Environment
+.env
+venv/
+.env/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
+
+# Misc
+*.ipynb_checkpoints
